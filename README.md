@@ -107,7 +107,7 @@ print("Нормалізовані номери телефонів для SMS-р�
 
 As a result, you'll receive a list of numbers in a standard format, suitable for SMS use.
 
-```
+```python
 #Normalized Phone Numbers for SMS Sending:
 ['+380671234567', '+380952345678', '+380441234567',
 '+380501234567', '+380501233234', '+380503451234',
